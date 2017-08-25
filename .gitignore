@@ -1,0 +1,6 @@
+*.swp
+*.swo
+build/
+node_modules/
+.node-xmlhttprequest-sync-*
+/package-lock.json
